@@ -18,6 +18,15 @@ h1{
 p{
     font-size: 25px;
 }
+a{
+    color: #fff;
+    font-style: italic;
+    text-decoration: none;
+}
+
+footer{
+    margin-top: 20px;
+}
 
 @media screen and (max-width: 768px){
     body{
